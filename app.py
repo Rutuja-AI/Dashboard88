@@ -310,7 +310,7 @@ def startup(startup):
 st.sidebar.title('Startup Funding Analysis')
 option = st.sidebar.selectbox('Select One', ['Overall Analysis', 'Startup', 'Investor'])
 st.markdown("""
-### my favourite movies
+### My Details
 - Rutuja Morankar
 - FS23AI015
  """)
